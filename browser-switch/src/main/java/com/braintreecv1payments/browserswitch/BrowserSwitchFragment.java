@@ -1,4 +1,4 @@
-package com.braintreepayments.browserswitch;
+package com.braintreecv1payments.browserswitch;
 
 import android.app.Fragment;
 import android.content.Context;
@@ -37,7 +37,7 @@ public abstract class BrowserSwitchFragment extends Fragment {
         }
     }
 
-    private static final String EXTRA_REQUEST_CODE = "com.braintreepayments.browserswitch.EXTRA_REQUEST_CODE";
+    private static final String EXTRA_REQUEST_CODE = "com.braintreecv1payments.browserswitch.EXTRA_REQUEST_CODE";
 
     protected Context mContext;
     protected int mRequestCode;

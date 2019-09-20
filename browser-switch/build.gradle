@@ -49,7 +49,7 @@ signing {
 }
 
 nexusStaging {
-    packageGroup = 'com.braintreepayments'
+    packageGroup = 'com.braintreecv1payments'
 }
 
 def sonatypeUsername = System.env['SONATYPE_USERNAME']
@@ -71,7 +71,7 @@ uploadArchives {
 
             pom.project {
                 name 'browser-switch'
-                groupId = 'com.braintreepayments'
+                groupId = 'com.braintreecv1payments'
                 version = "${android.defaultConfig.versionName}"
                 packaging 'aar'
                 description 'A library making it easy to open a url in a browser or Chrome Custom Tab and receive a response from the web page.'

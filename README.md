@@ -12,14 +12,14 @@ Add the library to your dependencies in your `build.gradle`:
 
 ```groovy
 dependencies {
-  compile 'com.braintreepayments:browser-switch:0.1.6'
+  compile 'com.braintreecv1payments:browser-switch:0.1.6'
 }
 ```
 
 Declare `BrowserSwitchActivity` in your `AndroidManifest.xml`:
 
 ```xml
-<activity android:name="com.braintreepayments.browserswitch.BrowserSwitchActivity"
+<activity android:name="com.braintreecv1payments.browserswitch.BrowserSwitchActivity"
     android:launchMode="singleTask">
     <intent-filter>
         <action android:name="android.intent.action.VIEW"/>

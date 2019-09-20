@@ -1,4 +1,4 @@
-package com.braintreepayments.browserswitch.demo;
+package com.braintreecv1payments.browserswitch.demo;
 
 import android.net.Uri;
 import android.os.Bundle;
@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.braintreepayments.browserswitch.BrowserSwitchFragment;
+import com.braintreecv1payments.browserswitch.BrowserSwitchFragment;
 
 public class DemoFragment extends BrowserSwitchFragment implements View.OnClickListener {
 

@@ -1,4 +1,4 @@
-package com.braintreepayments.browserswitch;
+package com.braintreecv1payments.browserswitch;
 
 import android.content.ComponentName;
 import android.content.Context;

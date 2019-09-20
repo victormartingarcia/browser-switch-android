@@ -1,4 +1,4 @@
-package com.braintreepayments.browserswitch.demo;
+package com.braintreecv1payments.browserswitch.demo;
 
 import android.app.Activity;
 import android.os.Bundle;

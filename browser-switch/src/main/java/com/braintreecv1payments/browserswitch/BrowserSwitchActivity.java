@@ -1,4 +1,4 @@
-package com.braintreepayments.browserswitch;
+package com.braintreecv1payments.browserswitch;
 
 import android.app.Activity;
 import android.net.Uri;

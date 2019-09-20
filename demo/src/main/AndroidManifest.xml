@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.braintreepayments.browserswitch.demo">
+    package="com.braintreecv1payments.browserswitch.demo">
 
     <application
         android:icon="@mipmap/ic_launcher"
@@ -13,7 +13,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="com.braintreepayments.browserswitch.BrowserSwitchActivity"
+        <activity android:name="com.braintreecv1payments.browserswitch.BrowserSwitchActivity"
             android:launchMode="singleTask">
             <intent-filter>
                 <action android:name="android.intent.action.VIEW"/>
